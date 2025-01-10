@@ -19,3 +19,4 @@ Vite를 사용해 제작한 간단하고 빠른 영화 애플리케이션입니�
 스타일링: CSS
 
 API: omdb API
+배포 주소 https://lunamovie-app.netlify.app
